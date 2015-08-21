@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MaleModel.cs">
+    <Files>
+      <File FileName="Assets\Shader\Diffuse Simple.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\Diffuse Texture.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\Diffuse Bump.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\Rim.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\WorldRefl.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\DisplacementInVertexModifier.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\FixedAmountTessellation.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\PhongTessellation.shader" Line="19" Column="29" />
+      <File FileName="Assets\Script\MaleModel.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
